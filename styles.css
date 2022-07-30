@@ -80,10 +80,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #BDC7C0;
     border-radius: 10px;
-    width: 255px;
-    height: 255px;
+    width: 385px;
+    height: 260px;
     margin-right: 25%;
 }
 
