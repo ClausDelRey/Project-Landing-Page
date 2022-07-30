@@ -179,3 +179,41 @@ body {
     margin-top: 20px;
     font-weight: bold;
 }
+
+.s4box {
+    width:30%;
+    min-height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #D0C88E ;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 3px 10px #221F07, 0 4px 10px 0px #ccc;
+    margin-bottom: 100px;
+}
+
+.s4hs {
+    font-weight: 900;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #221F07;
+}
+
+.s4btn {
+    width: 100px;
+    height: 50px;
+    background-color: #E7E3C5 ;
+    border: 1,5px solid white;
+    border-radius: 3px;
+    font-weight: 700;
+    color: #221F07;
+    margin-right: 10PX;
+}
+
+.s4btn:hover {
+    cursor: pointer;
+    background-color: #BDB261;
+}
