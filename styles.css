@@ -125,6 +125,11 @@ body {
     border-radius: 10px;
     transition: 0.5s;
     cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.b1info {
+    padding-bottom: 50px;
 }
 
 .b1container:hover {
